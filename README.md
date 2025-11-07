@@ -1,7 +1,7 @@
 # Repository Name: Tours-UIUX
 
 Description: 
-This GitHub repository contains the UI/UX design for Asta Tours, a travel and tourism website/application. The design was created using Figma and includes a set of 10 well-designed pages to provide a seamless user experience for various interactions.
+This GitHub repository contains the UI/UX design for Tours, a travel and tourism website/application. The design was created using Figma and includes a set of 10 well-designed pages to provide a seamless user experience for various interactions.
 
 Pages Included:
 - Sign In
@@ -30,13 +30,7 @@ This repository serves as a reference for UI/UX designers, developers, and stake
 Contributions:
 Contributions to enhance the design, fix issues, or suggest improvements are welcome. Please follow the standard GitHub workflow for contributions.
 
-Instructions:
-1. Clone the repository 
-2. Open the Figma files using your Figma account.
-3. Explore the different pages, components, and interaction flows.
-4. Provide feedback or contribute improvements through issues and pull requests.
 
-preview:
 
 
 
